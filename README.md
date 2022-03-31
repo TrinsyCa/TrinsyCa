@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TrinsyCa
+- 👤 My name is Ömer İslamoğlu
