@@ -4,5 +4,5 @@
 
 &nbsp;&nbsp;&nbsp;➤ Social Media Accounts<br>
 ➤ <a href="https://www.instagram.com/omer.islmoglu/">My Instagram Account</a><br>
-➤ <a href="https://twitter.com/trinsyca">My Twitter Account</a><br>
+➤ <a href="https://twitter.com/trinsyca" target:"_blank">My Twitter Account</a><br>
 ➤ <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxNtQSWJJLvznXSTvxJGGhxlRwSrpMMpMmBPWjGtcxzjVTMNqMbGlgwBfjKGccCjRblq">Contact With Me</a>
