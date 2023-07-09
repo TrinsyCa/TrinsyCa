@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrinsyCa
 - 👤 My name is Ömer İslamoğlu
-- 🕙︎ Age Timer: 16
+- 🕙︎ Age Timer: 17
 
 &nbsp;&nbsp;&nbsp;➤ Social Media Accounts<br>
 ➤ <a href="https://trinsyca.w3spaces.com">Social Media Accounts</a><br>
