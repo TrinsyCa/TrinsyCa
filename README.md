@@ -12,7 +12,7 @@
 ・CSS <br>
 ・HTML <br>
 ・C# <br>
-・SQL <br>
+・SQL Server <br>
 ・Arduino <br>
 </b>
 <br>
