@@ -9,7 +9,7 @@
 ・PHP <br>
 ・MYSQL <br>
 ・JavaScript <br>
-・css <br>
+・CSS <br>
 ・HTML <br>
 ・C# <br>
 ・SQL <br>
