@@ -5,14 +5,14 @@
 
 &nbsp;&nbsp;&nbsp;➤ Programming Languages<br>
 
-・PHP
-・MYSQL
-・JavaScript
-・css
-・HTML
-・C#
-・SQL
-・Arduino
+・PHP <br>
+・MYSQL <br>
+・JavaScript <br>
+・css <br>
+・HTML <br>
+・C# <br>
+・SQL <br>
+・Arduino <br>
 
 ➤ <a href="https://trinsyca.bistbilisim.com">Social Media Accounts</a><br>
 ➤ <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrdZHCpDsKWSCHjSqXRCwKQtbsMhVJNgHpBZdrkwqRsHQpnJSGGvbZPkvVgSHCRzpPHxV">Contact With Me・trinsyca@gmail.com</a>
