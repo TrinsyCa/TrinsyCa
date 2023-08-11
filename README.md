@@ -15,6 +15,6 @@
 ・SQL <br>
 ・Arduino <br>
 </b>
-
+<br>
 ➤&nbsp; <a href="https://trinsyca.bistbilisim.com">Social Media Accounts</a><br>
 ➤&nbsp; <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrdZHCpDsKWSCHjSqXRCwKQtbsMhVJNgHpBZdrkwqRsHQpnJSGGvbZPkvVgSHCRzpPHxV">Contact With Me・trinsyca@gmail.com</a>
