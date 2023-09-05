@@ -1,4 +1,4 @@
-![MasterHead](http://trinsyca.bistbilisim.com/img/bg-wallpaper.jpg)
+![MasterHead](https://pixgent.pockethost.io/api/files/a1yn0czfni4709q/uvtz0so4j43mls0/cool_geometric_triangular_figure_neon_laser_light_great_backgrounds_wallpapers_eKJi6qX3EA.png)
 <h1 align="center">Hi 👋, I'm Ömer İslamoğlu</h1>
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
