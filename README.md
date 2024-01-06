@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on <b>Trizola</b>
 
-- 👨‍💻 All of my projects are available at [trinsyca.com/](https://trinsyca.com/)
+- 👨‍💻 All of my projects are available at [trinsyca.com](https://trinsyca.com)
 
-- 📝 I regularly write articles on [blog.trinsyca.com/](https://blog.trinsyca.com/)
+- 📝 I regularly write articles on [blog.trinsyca.com](https://blog.trinsyca.com)
 
 - 📫 How to reach me **info@trinsyca.com**
 
