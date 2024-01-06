@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/trinsyca" target="blank"><img src="https://img.shields.io/twitter/follow/trinsyca?logo=twitter&style=for-the-badge" alt="trinsyca" /></a> </p>
 
-- 🔭 I’m currently working on [Cool Travel Istanbul Administrator Page](https://admin.cooltravelistanbul.com/)
+- 🔭 I’m currently working on <b>Trizola</b>
 
-- 👨‍💻 All of my projects are available at [https://trinsyca.bistbilisim.com/](https://trinsyca.bistbilisim.com/)
+- 👨‍💻 All of my projects are available at [trinsyca.com/](https://trinsyca.com/)
 
-- 📝 I regularly write articles on [https://trinsyblog.bistbilisim.com/](https://trinsyblog.bistbilisim.com/)
+- 📝 I regularly write articles on [blog.trinsyca.com/](https://blog.trinsyca.com/)
 
-- 📫 How to reach me **trinsyca@gmail.com**
+- 📫 How to reach me **info@trinsyca.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
