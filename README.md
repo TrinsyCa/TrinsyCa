@@ -12,6 +12,8 @@
 
 - 📝 I regularly write articles on <b>[blog.trinsyca.com](https://blog.trinsyca.com)</b>
 
+- ❓ About Me <b>[bio.trinsyca.com](https://bio.trinsyca.com)</b>
+
 - 📫 How to reach me **info@trinsyca.com**
 
 <h3 align="left">Connect with me:</h3>
