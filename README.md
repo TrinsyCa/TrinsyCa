@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on <b>[blog.trinsyca.com](https://blog.trinsyca.com)</b>
 
-- ❓ About Me <b>[bio.trinsyca.com](https://bio.trinsy.ca)</b>
+- ❓ About Me <b>[bio.trinsy.ca](https://bio.trinsy.ca)</b>
 
 - 📫 How to reach me **info@trinsyca.com**
 
