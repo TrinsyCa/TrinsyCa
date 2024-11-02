@@ -14,7 +14,7 @@
 
 - ❓ About Me <b>[bio.trinsy.ca](https://bio.trinsy.ca)</b>
 
-- 📫 How to reach me **info@trinsyca.com**
+- 📫 How to reach me **omer@trinsyca.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
