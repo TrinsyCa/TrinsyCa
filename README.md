@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/TrinsyCa/TrinsyCa/ekko-powder.png)
+![MasterHead](https://github.com/TrinsyCa/TrinsyCa/blob/main/ekko-powder.png)
 <h1 align="center">Hi 👋, I'm Ömer İslamoğlu</h1>
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
