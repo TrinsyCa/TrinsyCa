@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ömer İslamoğlu</h1>
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trinsyca&label=Profile%20Views&color=c8a114&style=flat" alt="trinsyca" /> </p>
-
 <p align="left"> <a href="https://twitter.com/trinsyca" target="blank"><img src="https://img.shields.io/twitter/follow/trinsyca?logo=twitter&style=for-the-badge" alt="trinsyca" /></a> </p>
 
 - 🔭 I’m currently working on <b>Trizola</b>
