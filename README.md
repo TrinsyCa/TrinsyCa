@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/trinsyca" target="blank"><img src="https://img.shields.io/twitter/follow/trinsyca?logo=twitter&style=for-the-badge" alt="trinsyca" /></a> </p>
 
-- 🔭 I’m currently working on <b>Trizola</b>
+- 🔭 I’m currently working on <b>Ben Kimim?</b>
 
 - 👨‍💻 All of my projects are available at <b>[trinsyca.com](https://trinsyca.com)</b>
 
