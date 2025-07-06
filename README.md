@@ -49,12 +49,12 @@
 <br>
 
 <div style="display:flex; justify-content: space-between; gap: 5px; width: 100%;">
-<img style="width: 50.7%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinsyca&theme=dark" alt="trinsyca" />
+<img style="width: 50.7%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinsyca&theme=tokyonight" alt="trinsyca" />
 
-<img style="width: 48.3%;" align="center" src="https://github-readme-stats.vercel.app/api?username=trinsyca&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="trinsyca" />
+<img style="width: 48.3%;" align="center" src="https://github-readme-stats.vercel.app/api?username=trinsyca&show_icons=true&theme=tokyonight&cache_seconds=1800&locale=en" alt="trinsyca" />
 
 </div>
 
 <br>
 
-<img style="width: 100%;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trinsyca&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="trinsyca" />
+<img style="width: 100%;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trinsyca&show_icons=true&theme=tokyonight&cache_seconds=1800&locale=en&layout=compact" alt="trinsyca" />
