@@ -15,24 +15,25 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://filamentphp.com" target="_blank" rel="noreferrer"><img src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="Filamentphp" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://file.trinsy.ca/3ebd92a0-8a2b-45a7" alt="Docker" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Android_Studio_icon_%282020%29.svg" alt="Android Studio" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="Unity" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="Javascript" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.photoshop.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 <br>
+
 - 🔭 I’m currently working on <b>Ben Kimim?</b>
 
 - 👨‍💻 All of my projects are available at <b>[trinsyca.com](https://trinsyca.com)</b>
@@ -44,6 +45,7 @@
 - 🧒 I'm <b>[age.trinsy.ca](https://age.trinsy.ca)</b> years old
 
 - 📫 How to reach me **omer@trinsyca.com**
+  
 <br>
 
 <div style="display:flex; justify-content: space-between; gap: 5px; width: 100%;">
