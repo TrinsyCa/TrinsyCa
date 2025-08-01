@@ -37,7 +37,7 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on <b>Ben Kimim?</b>
+- 🔭 I’m currently working on <b>Cool Travel Istanbul's New Website</b>
 
 - 👨‍💻 All of my projects are available at <b>[trinsyca.com](https://trinsyca.com)</b>
 
