@@ -17,10 +17,10 @@
 <p align="center">
   <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
   <a href="https://filamentphp.com" target="_blank" rel="noreferrer"><img src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="Filamentphp" width="40" height="40"/></a>&nbsp;
+  <a href="https://servoy.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/db772062-41b1-4a24-8865-2f8affcc308a" alt="Servoy" width="40" height="40"/></a>&nbsp
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="Javascript" width="40" height="40"/></a>&nbsp
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/db772062-41b1-4a24-8865-2f8affcc308a" alt="Javascript" width="40" height="40"/></a>&nbsp
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a>&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>&nbsp;
