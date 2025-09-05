@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/TrinsyCa/TrinsyCa/blob/main/ekko-powder.png)
 <h1 align="center">👋 Hi, I'm Ömer İslamoğlu</h1>
-<h3 align="center">A Passionate Full Stack Developer From Turkey</h3>
+<h3 align="center">A Passionate Full Stack Developer at KLE Information Technologies</h3>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
