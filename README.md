@@ -38,7 +38,7 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on <b>Servoy Developer Editor</b>
+- 🔭 I’m currently working on <b>Servoy</b>
 
 - 👨‍💻 All of my projects are available at <b>[trinsyca.com](https://trinsyca.com)</b>
 
