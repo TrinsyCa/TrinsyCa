@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/TrinsyCa/TrinsyCa/blob/main/ekko-powder.png)
+![MasterHead](https://github.com/user-attachments/assets/2fbbc36f-2027-445b-9825-e2f3789249f1)
 
 <h1 align="center">👋 Hi, I'm Ömer İslamoğlu</h1>
 <h3 align="center">A Passionate Full Stack Developer at KLE Information Technologies</h3>
