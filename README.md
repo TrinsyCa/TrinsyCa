@@ -38,7 +38,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Servoy**
+- 🔭 I’m currently working on **Tourmans**
 - 👨‍💻 All of my projects are available at **[trinsyca.com](https://trinsyca.com)**
 - 📝 I regularly write articles on **[blog.trinsyca.com](https://blog.trinsyca.com)**
 - ❓ About me **[bio.trinsy.ca](https://bio.trinsy.ca)**
